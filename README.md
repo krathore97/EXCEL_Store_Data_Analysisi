@@ -1,4 +1,4 @@
-# EXCEL_Store_Data_Analysisi
+# EXCEL_Store_Data_Analysis
 Store analysis and Dashboard using Advanced Excel
 data cleaning, processing, analysis and dashboard creation in Excel. Complete data analytics project
 
